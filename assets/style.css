@@ -1,0 +1,38 @@
+/*set the form to center*/
+.all{
+    background-repeat: no-repeat;
+    background-size:  cover;
+    min-height: 100vh;
+    background-image: url('./zuri.jpeg');
+}
+form{
+    max-width: 500px;
+    min-width: 250px;
+    padding: 10px 20px;
+    background: #d1d4d4;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 8px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+.form-group{
+    margin: 2%;
+}
+h1{
+    text-align: center;
+}
+.navbar-light{
+    background-color: rgb(242, 211, 170);
+}
+li{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    color: white;
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
